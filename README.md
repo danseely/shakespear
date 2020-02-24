@@ -4,14 +4,14 @@ This is scoped to a single work ([Othello](https://github.com/severdia/PlayShake
 
 This is relatively generic given the expected data structure, so it could be made to work with other data files by parameterizing the file name, assuming the files were all available.
 
-## Usage
-
-Assuming you have PHP installed, you can call the example usage script like this:
-
 ## To Do
 
 - [ ] don't allow for duplicate lines returned
 - [ ] sanity cap for number of lines requested
+
+## Usage
+
+Assuming you have PHP installed, you can call the example usage script like this:
 
 ```
 bash$ php useRandomOthello.php 5 Clown
