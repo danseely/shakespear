@@ -1,6 +1,6 @@
 # Fetching random lines from Shakespear
 
-This is scoped to a single work ([Othello](https://github.com/severdia/PlayShakespeare.com-XML/blob/master/playshakespeare_editions/ps_othello.xml)). Given a number of lines to fetch and a character, this will return an array of the given size with random lines for the given character.
+This is a simple PHP script to return a given number of random lines from a Shakespear play for a given character. It is scoped to a single work ([Othello](https://github.com/severdia/PlayShakespeare.com-XML/blob/master/playshakespeare_editions/ps_othello.xml)). Given a number of lines to fetch and a character, this will return an array of the given size with random lines for the given character.
 
 This is relatively generic given the expected data structure, so it could be made to work with other data files by parameterizing the file name, assuming the files were all available.
 
