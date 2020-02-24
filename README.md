@@ -8,6 +8,11 @@ This is relatively generic given the expected data structure, so it could be mad
 
 Assuming you have PHP installed, you can call the example usage script like this:
 
+## To Do
+
+- [ ] don't allow for duplicate lines returned
+- [ ] sanity cap for number of lines requested
+
 ```
 bash$ php useRandomOthello.php 5 Clown
 ```
