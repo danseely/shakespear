@@ -8,6 +8,7 @@ This is relatively generic given the expected data structure, so it could be mad
 
 - [ ] don't allow for duplicate lines returned
 - [ ] sanity cap for number of lines requested
+- [ ] message for when no lines are found
 
 ## Usage
 
